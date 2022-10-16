@@ -1,0 +1,3 @@
+var likes = {
+  imageName: numberOfLikes
+}
